@@ -67,6 +67,10 @@
 
 ###
 
+<h3 align="left">🎶🎶:</h3>
+
+###
+
 <div align="center">
   <a href="https://open.spotify.com/user/31zqpuztdewvmqpnuo4bhlsceyqa">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31zqpuztdewvmqpnuo4bhlsceyqa" alt="Spotify recently played"  />
