@@ -62,7 +62,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ihatnest&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Ihatnest&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
@@ -72,5 +72,9 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31zqpuztdewvmqpnuo4bhlsceyqa" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Ihatnest/Ihatnest/output/snake.svg" alt="Snake animation" />
 
 ###
