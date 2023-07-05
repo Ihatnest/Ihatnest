@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Hi, I'm Muhammad Abdillah, I'm from Indonesia<br><br>- ✏ I am a student at Palangkaraya University<br>- 📚 I'm learning unity game engine<br>- ⚡ In my spare time I play games like valorant and brawhalla</p>
+<p align="left">Hi, I'm Muhammad Abdillah, I'm from Indonesia<br><br>- ✏ I am a student at Palangkaraya University<br>- 📚 I'm learning unity game engine<br>- ⚡ In my spare time I watch Anime</p>
 
 ###
 
